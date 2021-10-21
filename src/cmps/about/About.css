@@ -1,0 +1,40 @@
+.about {
+  text-align: left;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  padding: 20px;
+  color: white;
+  background-color: #EE9486;
+}
+
+.about-header {
+  margin-bottom: 10px;
+}
+.skills {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(140px, 200px));
+  margin-top: 5px;
+}
+
+h4 {
+  margin-top: 12px;
+}
+.skills li {
+  list-style: none;
+}
+
+.profile-picture {
+  height: 180px;
+  border-radius: 50%;
+}
+
+.underline {
+  background-color: #186583;
+  height: 2px;
+  width: 200px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}

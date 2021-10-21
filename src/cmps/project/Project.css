@@ -1,0 +1,43 @@
+.project {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #186583;
+  margin: 10px;
+  padding: 10px 50px 50px 50px;
+  border-radius: 8px;
+  color: white;
+
+  transition: all 0.8s;
+
+
+}
+
+.project:hover {
+  box-shadow: 0px 0px 17px -4px rgba(0, 0, 0, 0.39);
+}
+
+.project-img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.project-btn {
+  margin-top: 25px;
+  width: 220px;
+  padding: 10px 30px;
+  border-radius: 10px;
+  border: 1px solid #ee9486;
+  background-color: #ee9486;
+  color: white;
+
+  transition: all 0.8s;
+}
+
+.project-btn:hover {
+  cursor: pointer;
+  background-color: #d16150;
+  border: solid 1px #d16150;
+}

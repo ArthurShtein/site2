@@ -1,0 +1,26 @@
+/* HEADER */
+
+header {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0C4559;
+}
+
+.header-ul {
+  display: flex;
+  list-style: none;
+}
+.header-ul:hover {
+  cursor: pointer;
+}
+
+.header-li {
+  padding: 20px;
+  transition: all 0.8s;
+}
+
+.header-li:hover {
+  background-color: #23238f;
+}

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'OpenSans-Regular';
+  src: local('OpenSans-Regular'), url(./fonts/OpenSans-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'OpenSans-ExtraBold';
+  src: local('OpenSans-ExtraBold'), url(./fonts/OpenSans-ExtraBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'CooperHewitt-Medium';
+  src: local('CooperHewitt-Medium'), url(./fonts/CooperHewitt-Medium.otf) format('truetype');
+}

@@ -1,0 +1,51 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* flex-direction: column; */
+  height: 100vh;
+
+  padding: 0 120px;
+  text-align: left;
+  background-color: #186583;
+}
+
+.main-container {
+  margin-left: 80px;
+}
+
+.header {
+  text-align: left;
+}
+
+p {
+  max-width: 510px;
+  text-align: left;
+  font-family: CooperHewitt-Medium;
+}
+
+.resume-btn {
+  padding: 9px 30px;
+  margin-top: 10px;
+  border-radius: 4px;
+  font-family: CooperHewitt-Medium;
+
+  border: solid 2px #EE9486;
+  background-color: #EE9486;
+  color: white;
+  transition: all 0.8s;
+}
+.resume-btn:hover {
+  cursor: pointer;
+  background-color: #d16150;
+  border: solid 2px #d16150;
+}
+
+.hero-header {
+  font-size: 75px;
+  font-family: OpenSans-ExtraBold;
+}
+
+.hero-p {
+    font-size: 55px;
+}
