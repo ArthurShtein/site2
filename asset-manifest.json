@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/site2/static/css/main.92cc012f.chunk.css",
+    "main.js": "/site2/static/js/main.440c21a0.chunk.js",
+    "main.js.map": "/site2/static/js/main.440c21a0.chunk.js.map",
+    "runtime-main.js": "/site2/static/js/runtime-main.19e1ccf8.js",
+    "runtime-main.js.map": "/site2/static/js/runtime-main.19e1ccf8.js.map",
+    "static/js/2.3a263bea.chunk.js": "/site2/static/js/2.3a263bea.chunk.js",
+    "static/js/2.3a263bea.chunk.js.map": "/site2/static/js/2.3a263bea.chunk.js.map",
+    "index.html": "/site2/index.html",
+    "static/css/main.92cc012f.chunk.css.map": "/site2/static/css/main.92cc012f.chunk.css.map",
+    "static/js/2.3a263bea.chunk.js.LICENSE.txt": "/site2/static/js/2.3a263bea.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/site2/static/media/OpenSans-Regular.ca49d2b0.ttf",
+    "static/media/prof.a98473d4.jpg": "/site2/static/media/prof.a98473d4.jpg",
+    "static/media/project.2e5db03f.jpg": "/site2/static/media/project.2e5db03f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19e1ccf8.js",
+    "static/js/2.3a263bea.chunk.js",
+    "static/css/main.92cc012f.chunk.css",
+    "static/js/main.440c21a0.chunk.js"
+  ]
+}
